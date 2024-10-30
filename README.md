@@ -23,6 +23,9 @@ Customer purchase behavior
 This project aims to know customer purchase behavior by an electronics company over a one-year period, spanning from September 2023 to September 2024. By analyzing the various aspects of the sales data, I seek to identify trends and make data driven recommendations, and gain a deeper understanding of the customer purchasing behavior.
 
 
+![electronic sales analysis Dashboard](https://github.com/user-attachments/assets/51569e46-2b82-4f87-90c4-db7f482e3187)
+
+
 ###  Data Sources
 Sales Data:  The primary dataset used for this analysis is the "Electronic_sales_Sep2023-Sep2024.csv" file, containing detailed information about each customer purchase.
 
