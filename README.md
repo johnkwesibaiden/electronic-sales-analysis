@@ -1,6 +1,23 @@
 # Electronic-sales-analysis
 Customer purchase behavior 
 
+## Table of Content
+- [Project Overview](#project-overview) 
+
+   -[Data Sources](#data-sources)  
+
+    -[Tools](#tools)
+
+   -[Data Cleaning/Preparation](#data-cleaning-/-preparation)
+
+   -[Exploratory Data Analysis](#exploratory-data-analysis)
+
+   -[Data Analysis](#data-analysis)
+
+    -[Results/Findings](#results-/-findings)
+
+   -[Recommendations](#recommendations)
+
 
 ###  Project Overview 
 This project aims to know customer purchase behavior by an electronics company over a one-year period, spanning from September 2023 to September 2024. By analyzing the various aspects of the sales data, I seek to identify trends and make data driven recommendations, and gain a deeper understanding of the customer purchasing behavior.
